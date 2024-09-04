@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Alexandra Munoz"
 output: 
   html_document:
     number_sections: true
@@ -16,7 +16,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 ## A short history of you.  
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
-### my answer     
+### my answer I attended High School at Dessert Winds. I did graduate in 2024. Comparing english to Math, English was my stringer subject.      
   
 
      
@@ -26,7 +26,7 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+  Yes I have a computer i will be using levon. I do have good wifi accesible. 
    
 
 ## Others and You?   
